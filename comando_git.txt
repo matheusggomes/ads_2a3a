@@ -29,3 +29,9 @@ git log
 git reset --hard iddocommit
 
 git reset --hard head~1 (volta uma versao, 2 volta duas versões)
+
+
+git clone endereço do repositorio
+
+git remote (o proprio github gera esse )
+
