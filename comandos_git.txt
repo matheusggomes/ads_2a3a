@@ -1,0 +1,55 @@
+--listar as configurações go git
+git config --list
+
+--comando para atualizar o nome do usuário (isso não é o usuário do github)
+git config --global user.name "matheusggomes"
+
+--comando para atualizar o email do usuário (são apenas informações locais)
+git config --global user.email "email@email.com"
+
+--inicializar repositorio do git 
+git init
+
+--alterar branch master para main
+git branch -m master main
+
+--verifica o status do repositório
+git status
+
+--comando para inserir um arquivo na proxima versao
+git add nomedoarquivo.extensaodoarquivo
+
+--comando para inserir todas as modificações na proxima versao
+git add .
+
+--comando para gerar uma nova versão
+git commit -m "breve descrição da versão"
+
+--verifica todas as versões criadas
+git log
+
+--retornar um determinado commit(versão)
+git reset --hard iddocommit
+
+--volta uma versão
+git reset --hard head~1
+
+-- volta duas versões
+git reset --hard head~2
+
+--clona o repositório/cria uma cópia local
+git clone endereçodorepositorio
+
+git remote (o próprio github gera esse comando quando criamos o repositório)
+
+--empurrar / envia para o repositório remoto
+git push -u origin main
+
+--puxar / buscar e baixar conteúdo do repositório remoto e fazer atualização ao repositório local
+git pull
+
+--listar o conteúdo de um diretório (exibir arquivos e pastas)
+ls
+
+--mudar o diretório/pasta atual
+cd nomedapasta
