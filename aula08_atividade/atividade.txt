@@ -1,0 +1,30 @@
+Você trabalha na Appfull, uma empresa de desenvolvimento de aplicativos que 
+utiliza os melhores recursos de desenvolvimento de software para as suas 
+aplicações. Reusabilidade, performance e escalabilidade são alguns dos termos 
+valorizados e utilizados para desenvolver os seus projetos.
+
+
+
+A Electronic, uma empresa de e-commerce de produtos eletrônicos, que atua na área 
+de atacado e varejo, ainda não possui um aplicativo para que seus clientes possam 
+realizar suas compras com maior facilidade e rapidez. Como o uso de dispositivos 
+móveis cresce a cada dia, a Electronic contratou a Appfull para realizar o 
+desenvolvimento desse novo aplicativo.
+
+
+
+Você ficou responsável por desenvolver essa demanda e deverá aplicar a linguagem 
+JavaScript para realizar o cadastro de clientes, atendendo às seguintes 
+características:
+
+- O sistema de clientes deverá armazenar os cadastros das pessoas físicas e jurídicas; 
+- O cadastro das pessoas físicas é feito com os seguintes dados: nome, CPF e data de nascimento; 
+- O cadastro das pessoas jurídicas é feito com os seguintes dados: nome, CNPJ e razão social; 
+- Os cadastros devem possuir um endereço. 
+
+
+
+Utilize o modelo para a implementação. Não se esqueça de gerar os objetos para 
+realização dos testes. Deverá ser implementada apenas as funcionalidades de 
+Back-End (seguir o padrão utilizado na última aula).
+
