@@ -1,1 +1,18 @@
 iremos utilizar esse repositorio para o projeto de node
+
+------------------------------------------
+comandos utilizados na aula:
+
+node -v     verificar versão (cmd)
+npm -v      verificar versão (cmd)
+
+
+npm init
+
+npm install express --save
+
+npm install nodemon --save-dev  (nodemon --> monitora todos os arquivos js do projeto)
+
+npm start
+
+Ctrl+c --> Deseja finalizar o arquivo em lotes (S/N)?
