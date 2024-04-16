@@ -16,3 +16,8 @@ npm install nodemon --save-dev  (nodemon --> monitora todos os arquivos js do pr
 npm start
 
 Ctrl+c --> Deseja finalizar o arquivo em lotes (S/N)?
+
+---------------------------
+aula 16/04/2024
+
+npm install dotenv
